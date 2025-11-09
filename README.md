@@ -1,9 +1,9 @@
-🧾 Django NASPO Price Search
+#🧾 Django NASPO Price Search
 
 A web-based application built with Django and PostgreSQL, designed for efficient searching, filtering, and management of NASPO contract pricing data.
 This project demonstrates structured database design, reusable Django app components, and a responsive, user-friendly front-end interface for procurement data exploration.
 
-🌟 Features
+##🌟 Features
 
 Advanced Search — Filter NASPO items by product name, supplier, contract number, or price range.
 
@@ -15,7 +15,7 @@ Responsive UI — Optimized for both desktop and mobile views.
 
 Modular Architecture — Easily extendable for new data sources or visualization modules.
 
-🧩 Project Structure
+##🧩 Project Structure
 
 ```text
 Django_NASPO_price_search/
@@ -42,7 +42,7 @@ Django_NASPO_price_search/
 └── requirements.txt                   → Python dependencies
 ```
 
-⚙️ Installation Guide
+##⚙️ Installation Guide
 1️⃣ Clone the repository
 git clone https://github.com/yvonnehan777/Django_NASPO_price_search.git  
 cd Django_NASPO_price_search
