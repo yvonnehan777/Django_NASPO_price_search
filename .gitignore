@@ -1,0 +1,20 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual env
+venv/
+.env/
+.env
+
+# macOS
+.DS_Store
+
+# Django collected/static & media (如果有)
+staticfiles/
+media/
+
+# SQLite
+db.sqlite3
+*.sqlite3
